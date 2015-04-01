@@ -1,0 +1,39 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <!-- Per the design guidelines, navigation drawers should be between 240dp and 320dp:
+         https://developer.android.com/design/patterns/navigation-drawer.html -->
+    <dimen name="navigation_drawer_width">300dp</dimen>
+    <dimen name="navigation_drawer_width_land">360dp</dimen>
+    <dimen name="actionBarSizeCustom">64dp</dimen>
+
+    <!-- Special Thanks to https://github.com/mikepenz/MaterialDrawer -->
+    <!-- ********************** -->
+    <!-- Material Drawer Dimens -->
+    <!-- ********************** -->
+    <!-- Definition for the Drawer Slider margin right -->
+    <dimen name="material_drawer_margin">0dp</dimen>
+    <!-- General padding value -->
+    <dimen name="material_drawer_padding">8dp</dimen>
+    <!-- General vertical padding values -->
+    <dimen name="material_drawer_vertical_padding">16dp</dimen>
+    <!-- General icon margin above and under the icons -->
+    <dimen name="material_drawer_icon_margin">12dp</dimen>
+    <!-- Definition for the primary item -->
+    <dimen name="material_drawer_primary">48dp</dimen>
+    <dimen name="material_drawer_primary_icon">22dp</dimen>
+    <dimen name="material_drawer_primary_text">14sp</dimen>
+    <!-- Definition for the secondary item -->
+    <dimen name="material_drawer_secondary">44dp</dimen>
+    <dimen name="material_drawer_secondary_icon">22dp</dimen>
+    <dimen name="material_drawer_secondary_text">14sp</dimen>
+    <!-- Definition for the section item -->
+    <dimen name="material_drawer_section_text">14sp</dimen>
+
+
+    <!-- Toolbar Padding -->
+    <dimen name="tool_bar_top_padding">0dp</dimen>
+
+</resources>

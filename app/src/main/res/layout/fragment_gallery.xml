@@ -1,0 +1,15 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="templates.yogeshbalan.com.navigationdrawertemplate.fragments.Gallery">
+
+    <!-- TODO: Update blank fragment layout -->
+    <ImageView
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_gravity="center"
+        android:padding="20dp"
+        android:src="@drawable/insta"
+        android:background="@drawable/abc_popup_background_mtrl_mult"/>
+
+</FrameLayout>
