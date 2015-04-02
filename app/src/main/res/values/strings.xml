@@ -7,6 +7,12 @@
     <string name="action_example">Example action</string>
 
     <string name="action_settings">Settings</string>
+    <string name="Home">Home</string>
+    <string name="Email">Email</string>
+    <string name="Gallery">Gallery</string>
+    <string name="Social">Social</string>
+    <string name="Phone">Phone</string>
+    <string name="Media">Media</string>
 
 <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>

@@ -113,19 +113,19 @@ public class MainActivity extends ActionBarActivity
     public void onSectionAttached(int number) {
         switch (number) {
             case 1:
-                mTitle = "Home";
+                mTitle = getString(R.string.Home);
                 break;
             case 2:
-                mTitle = "Email";
+                mTitle = getString(R.string.Email);
                 break;
             case 3:
-                mTitle = "Gallery";
+                mTitle = getString(R.string.Gallery);
             case 4:
-                mTitle = "Social";
+                mTitle = getString(R.string.Social);
             case 5:
-                mTitle = "Phone";
+                mTitle = getString(R.string.Phone);
             case 6:
-                mTitle = "Media";
+                mTitle = getString(R.string.Media);
                 break;
         }
     }
