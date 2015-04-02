@@ -49,7 +49,7 @@ public class MainActivity extends ActionBarActivity
             if (toolbar != null) {
                 setSupportActionBar(toolbar);
                 toolbar.setTitle(myTitle);
-                toolbar.setTitleTextColor(getResources().getColor(R.color.white));
+                toolbar.setTitleTextColor(getResources().getColor(android.R.color.white));
             }
         }
 

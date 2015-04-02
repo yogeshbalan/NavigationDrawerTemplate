@@ -14,8 +14,8 @@
     <color name="textview_light">#616161</color>
 
     <!-- App Main colors -->
-    <color name="colorPrimary">#F44336</color>
-    <color name="colorPrimaryDark">#D32F2F</color>
+    <color name="colorPrimary">#FF5722</color>
+    <color name="colorPrimaryDark">#E64A19</color>
     <color name="colorAccent">#F44336</color>
 
     <!-- Material DEFAULT colors -->
